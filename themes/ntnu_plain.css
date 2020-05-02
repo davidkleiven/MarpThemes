@@ -1,0 +1,15 @@
+/* @theme ntnu-plain */
+
+@import 'gaia';
+
+section {
+    width: 960px;
+    height: 720px;
+    background-color: white;
+    background-image: url(../assets/circles.svg);
+    font-size: 28px;
+}
+
+h1 {
+    font-size: 48px;
+}

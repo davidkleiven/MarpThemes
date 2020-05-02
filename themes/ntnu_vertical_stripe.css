@@ -1,0 +1,16 @@
+/* @theme ntnu-vertical */
+
+@import 'gaia';
+
+section {
+    width: 960px;
+    height: 720px;
+    background-color: white;
+    background-image: url(../assets/ntnu_blue_vertical_stripe.svg);
+    font-size: 28px;
+    padding: 40px 110px;
+}
+
+h1 {
+    font-size: 48px;
+}
