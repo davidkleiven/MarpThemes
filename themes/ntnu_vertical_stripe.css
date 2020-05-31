@@ -6,7 +6,7 @@ section {
     width: 960px;
     height: 720px;
     background-color: white;
-    background-image: url(https://raw.githubusercontent.com/davidkleiven/MarpThemes/master/assets/ntnu_blue_vertical_stripe.svg);
+    background-image: url(https://github.com/davidkleiven/MarpThemes/raw/v1.0/assets/ntnu_blue_vertical_stripe.svg);
     font-size: 28px;
     padding: 40px 110px;
 }
