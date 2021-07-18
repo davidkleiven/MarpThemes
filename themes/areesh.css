@@ -1,0 +1,24 @@
+/* areesh.css */
+/* @theme areesh */
+
+section {
+    width: 210mm;
+    height: 297mm;
+    background-color: white;
+    background-image: url(background.svg);
+    color: #222629;
+    padding-left: 70px;
+    padding-right: 40px;
+    font-size: 12px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    border-bottom: 3px solid #86c232;
+}
