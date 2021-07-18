@@ -1,6 +1,6 @@
 /*!
  * areesh.css
- * @theme areesh 
+ * @theme areesh
  * @author David Kleiven
  * @auto-scaling true
  */
@@ -9,7 +9,8 @@
 section {
     width: 210mm;
     height: 297mm;
-    background-color: red;
+    background-color:white;
+    background-image: url(https://raw.githubusercontent.com/davidkleiven/MarpThemes/master/assets/areesh_bkg.svg);
     color: #222629;
     padding-left: 70px;
     padding-right: 40px;
