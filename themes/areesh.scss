@@ -5,17 +5,24 @@
  * @auto-scaling true
  */
 
+$color-dark: #222629;
+$color-detail: #86c232;
+
 section {
     width: 210mm;
     height: 297mm;
     background-color: white;
-    background-image: rect(
-        0, 16, 297, 0
-    );
-    color: #222629;
+    color: --color-dark;
     padding-left: 70px;
     padding-right: 40px;
     font-size: 12px;
+}
+
+.shape {
+    height: 297mm;
+    width: 16mm;
+    background-color: --color-dark;
+    float: left;
 }
 
 h1 {
@@ -26,5 +33,5 @@ h1 {
 
 h2 {
     font-size: 24px;
-    border-bottom: 3px solid #86c232;
+    border-bottom: 3px solid --color-detail;
 }
