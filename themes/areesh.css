@@ -1,18 +1,16 @@
 /*!
- * areesh.scss
+ * areesh.css
  * @theme areesh 
  * @author David Kleiven
  * @auto-scaling true
  */
 
-$color-dark: #222629;
-$color-detail: #86c232;
 
 section {
     width: 210mm;
     height: 297mm;
     background-color: white;
-    color: var(--color-dark);
+    color: #222629
     padding-left: 70px;
     padding-right: 40px;
     font-size: 12px;
@@ -26,5 +24,5 @@ h1 {
 
 h2 {
     font-size: 24px;
-    border-bottom: 3px solid var(--color-detail);
+    border-bottom: 3px solid #86c232;
 }
